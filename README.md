@@ -1,3 +1,3 @@
--- go run main.go     
--- Log sending for mac: nc locolhost:8080  
--- Show metrics: locolhost:8080/metrics  
+1- go run main.go     
+2- Log sending for mac: nc locolhost:8080  
+3- Show metrics: locolhost:8080/metrics  
