@@ -1,0 +1,3 @@
+-- go run main.go
+-- For mac: nc locolhost:8080
+-- Show metrics: locolhost:8080/metrics
